@@ -66,3 +66,7 @@ header {
         border-radius: 5px;
         color: white;
     }    
+
+#email,#name ,#subject {
+	background: transparent;
+}
