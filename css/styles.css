@@ -99,3 +99,7 @@ input[type=text], select, textarea {
   form#formInput ::placeholder {
     color:white;    
   }
+  .icons{
+    text-align: center;
+    margin: 30px;
+  }
