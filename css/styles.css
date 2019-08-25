@@ -24,3 +24,10 @@ header {
     text-transform: uppercase;
     text-align: center;
 }
+
+#services {
+    background-image: url(../assets/backgrounds/s_image.jpg);
+    color: white;
+    padding: 132px;
+    text-align: center;
+}
