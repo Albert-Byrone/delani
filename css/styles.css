@@ -58,3 +58,6 @@ header {
       padding-top:40px;
       
     }
+    #overlay,#overlay2,#overlay3,#overlay4,#overlay5,#overlay6,#overlay7,#overlay8{
+        display: none;
+    }
