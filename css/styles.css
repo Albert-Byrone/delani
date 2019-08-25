@@ -31,3 +31,6 @@ header {
     padding: 132px;
     text-align: center;
 }
+#services h1 {
+    text-transform: uppercase;
+}
