@@ -76,7 +76,7 @@ As a user of the application,you will be able to :
 [Go Back to the top](#delani-studio)
 
 ## Known Bugs
-* Mailchimp API does not function properly.
+* Mailchimp API does not function correctly as expected.
 
 ## Licence
 
