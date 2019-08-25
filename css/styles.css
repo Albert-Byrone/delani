@@ -34,3 +34,14 @@ header {
 #services h1 {
     text-transform: uppercase;
 }
+#servi h4 {
+    text-transform: uppercase;
+}
+
+#servi {
+    text-align: center;
+    display: inline;
+}
+  #servi p{
+      display: none;
+  }
