@@ -61,3 +61,8 @@ header {
     #overlay,#overlay2,#overlay3,#overlay4,#overlay5,#overlay6,#overlay7,#overlay8{
         display: none;
     }
+    #form {
+        background-image: url(../assets/backgrounds/c_image.jpg);
+        border-radius: 5px;
+        color: white;
+    }    
