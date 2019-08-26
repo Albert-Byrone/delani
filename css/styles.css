@@ -1,6 +1,7 @@
 
 body{
     font-family: 'Roboto', sans-serif;
+    overflow-x: hidden;
 }
 header {
     background-image: url("../assets/backgrounds/h_img.jpg");
